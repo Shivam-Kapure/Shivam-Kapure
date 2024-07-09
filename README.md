@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm @Shivam-Kapure</h1>
+<h1 align="center">Hi , I'm @Shivam-Kapure</h1>
 <h3 align="center">A CSE Undergrad.</h3>
 
 
 ### About Me
-- 👀 I’m interested in Programming, Design, Web Development.
-- 🌱 I’m currently learning Java and CPP.
-- 💞️ I’m looking to collaborate on innovative ideas.
-- ⚡ Fun Fact: I can fluently speak four languages: English, Hindi, Marathi and Pali.
+-  I’m interested in Programming, Design, Web Development.
+-  I’m currently learning Java and CPP.
+-  I’m looking to collaborate on innovative ideas.
+-  Fun Fact: I can fluently speak four languages: English, Hindi, Marathi and Pali.
 
 
 ### You Can Reach Out To Me At:
