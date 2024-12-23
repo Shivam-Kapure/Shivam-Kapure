@@ -11,8 +11,6 @@
 
 ### You Can Reach Out To Me At:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shivam-kapure-486728249/)
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/K4PUSh10N)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/shivam_kapure_/)
 [![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/Shivam-Kapure)
 
 
