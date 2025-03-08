@@ -4,7 +4,6 @@
 
 ### About Me
 -  I’m interested in Programming, Design, Web Development.
--  I’m currently learning Java and CPP.
 -  I’m looking to collaborate on innovative ideas.
 -  Fun Fact: I can fluently speak four languages: English, Hindi, Marathi and Pali.
 
